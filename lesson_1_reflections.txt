@@ -1,0 +1,25 @@
+diff : it is a linux terminal command used to check the difference between two files. It's a lot faster than simply viewing to find the bugs or the difference.
+version control systems : we can reflect back on our work or the history of our work at any point of time.
+commit : checkpoint at certain intervals such that it has any, not huge changes. git commit also commits all files within the repository
+git log : show all commit lists.
+git log --stat : also shows status of changes.
+git diff : same as diff for git.
+git checkout : to check the previous versions of the file.
+
+Git command review
+
+Compare two commits, printing each line that is present in one commit but not the other.
+
+git diff will do this. It takes two arguments - the two commit ids to compare.
+
+Make a copy of an entire Git repository, including the history, onto your own computer.
+
+git clone will do this. It takes one argument - the url of the repository to copy.
+
+Temporarily reset all files in a directory to their state at the time of a specific commit.
+
+git checkout will do this. It takes one argument - the commit ID to restore.
+
+Show the commits made in this repository, starting with the most recent.
+
+git log will do this. It doesn't take any arguments.

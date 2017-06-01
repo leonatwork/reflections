@@ -1,0 +1,2 @@
+git init : intializes repo
+git status : show current branch status
