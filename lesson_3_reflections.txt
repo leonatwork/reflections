@@ -1,0 +1,2 @@
+Use remote repositories while collaborating with others on a project or to share the code with someone, even if they just want to see the code and not contribute to it.use them when you want to be able to edit code from multiple different computers and keep the code up-to-date on all the
+computers. Also, remotes can be a good way to keep a backup of the work.
